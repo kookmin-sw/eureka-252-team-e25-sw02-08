@@ -169,7 +169,8 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 
 
 # Week05
-![Uploading Gemini_Generated_Image_ppxmt6ppxmt6ppxm.png…]()
+<img src="![Uploading Gemini_Generated_Image_ppxmt6ppxmt6ppxm.png…]()" width="330" height="190"/>
+
 
 
 <!-- 활동 사진 추가 예시 -->
