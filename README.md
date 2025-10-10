@@ -167,6 +167,11 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 
 3) 현재 투사되어 단순히 손가락이나 몸의 움직임을 이용해서 사물을 추적할거나 사진을 찍는 듯한 행위는 불가능하지만, 눈의 움직임을 이용해 문자를 입력하는 기술, 스마트워치의 경우에는 손을 씻는 듯한 행위를 하면 씻는 것으로 인식하는 등의 기술은 현재 구현이 된 상태이다. 따라서 MIT Sixth Sense 프로젝트의 아이디어는 계속해 계승, 발전되었다고 할 수 있다.
 
+
+# Week05
+![Uploading Gemini_Generated_Image_ppxmt6ppxmt6ppxm.png…]()
+
+
 <!-- 활동 사진 추가 예시 -->
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
