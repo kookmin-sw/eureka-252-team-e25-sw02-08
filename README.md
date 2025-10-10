@@ -171,7 +171,7 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 # Week05
 <img width="1184" height="864" alt="Image" src="https://github.com/user-attachments/assets/51d6b3fc-02fe-4340-b69f-1c6de5a1ce9a" />
 
-<img width= "800" height ="800" alt= "Image" src= "https://lh3.googleusercontent.com/gg-dl/AJfQ9KTcZLrFnzO1aq-5vyUBIsfXPRMATVgDIq8rquBR9ckcOWGUN8pp60MylNOaeVlZ5uqr8vSosXoNtCRPuiBh4LT-j9Ke9UdmbdYZNgFa0aR6IPSLvYi3-zySGlpUsWaxCq7VkZJdVYBPynYYzlShyCOI86QYWEX-hx9P5ZdGgvgyXBmPsQ=s1024-rj" />
+
 <!-- 활동 사진 추가 예시 -->
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
