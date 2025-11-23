@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 # Welcome to 8팀
-
+<img width="594" height="842" alt="IMG_0051" src="https://github.com/user-attachments/assets/71e9b512-fafb-4a30-befb-48c278262fc4" />
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
@@ -172,7 +172,7 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5b92ed54-346b-4874-a6d1-a5a99dae6047" />
 
 
-<img width="594" height="842" alt="IMG_0051" src="https://github.com/user-attachments/assets/71e9b512-fafb-4a30-befb-48c278262fc4" />
+
 
 
 ***
