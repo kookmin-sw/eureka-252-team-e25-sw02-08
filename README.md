@@ -175,7 +175,31 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 
 # Week11
 ![IMG_0262](https://github.com/user-attachments/assets/7599ea97-1940-437b-acaf-2874f22839a2)
+- LLM은 일반적으로 ****대규모 언어 모델**([Large Language Model](https://www.google.com/search?q=Large+Language+Model&oq=llm&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQABiDARixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIPCAkQABgKGIMBGLEDGIAE0gEHODc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwit0v2u4fCQAxXSsVYBHR-DL0cQgK4QegYIAQgAEAQ))**을 의미하며, 대량의 텍스트 데이터를 학습하여 인간의 언어를 이해하고 생성하는 인공지능 모델입니다. 이 모델은 텍스트 생성, 질문 답변, 번역 등 다양한 작업에 활용되며, 기존의 키워드 기반 챗봇과 달리 자연어의 맥락을 이해하는 것이 특징입니다
 
+- 대학원 - 고등학교때부터 차별점을 만들고싶어서 조기졸업 , 석사를 하면 전문적인 일을 주도적으로 할 수 있어서 (군대→전문연구원)
+
+- ai, 보안에서의 트랜드 - 트랜스포머와 llm
+
+- ai기술을 활용하여 이상탐지, 침입탐지 → 보안강화 
+
+- 최신동향 → ?!
+
+- 대학원생활하면서 힘들고 보람→ 밤새워서 실험 후 상을 받게 되었음
+
+- 추천하고싶은 공부방법과 프로젝트 → 해킹이나 취약점 BOB, 정보보안기사, 빅데이터분석기사 / 
+
+- llm 챗봇 (llm 사용이 매우 좋은 경험), 알파프로젝트
+
+- 학부생시절에서 이거 하나만 하고 졸업해야한다면 → 학부연구생, 알고리즘공부, 인공지능(자연어처리, llm), 휴학
+
+- ai 윤리문제 → llm 가드라인 (인종차별, 핵폭탄 만드는 걸 막는 연구분야가 활발) pii(개인정보 막는 거 있음)
+
+- ai를 잘 다루는 능력외에 개발자와 연구자가 갖춰야할 역량은? → 문제정의와 해결방법을 찾는 능력
+
+- ai→ 해킹 당하나요? ai 인프라를 노리는 공격을 받은 기업 30퍼 프롬프트유출이나 학습한거 
+
+- 막히거나 했을 때 → 데이터를 다시 분석해서 시각화, 관련 연구를 찾아서 적용해보는 거 같다
 
 
 ***
