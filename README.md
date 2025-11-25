@@ -176,14 +176,14 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 # Week11
 ![IMG_0262](https://github.com/user-attachments/assets/7599ea97-1940-437b-acaf-2874f22839a2)
 - LLM은 일반적으로 ****대규모 언어 모델**([Large Language Model](https://www.google.com/search?q=Large+Language+Model&oq=llm&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQABiDARixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIPCAkQABgKGIMBGLEDGIAE0gEHODc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwit0v2u4fCQAxXSsVYBHR-DL0cQgK4QegYIAQgAEAQ))**을 의미하며, 대량의 텍스트 데이터를 학습하여 인간의 언어를 이해하고 생성하는 인공지능 모델입니다. 이 모델은 텍스트 생성, 질문 답변, 번역 등 다양한 작업에 활용되며, 기존의 키워드 기반 챗봇과 달리 자연어의 맥락을 이해하는 것이 특징입니다
-
+Large Language Model
 - 대학원 - 고등학교때부터 차별점을 만들고싶어서 조기졸업 , 석사를 하면 전문적인 일을 주도적으로 할 수 있어서 (군대→전문연구원)
 
 - ai, 보안에서의 트랜드 - 트랜스포머와 llm
 
 - ai기술을 활용하여 이상탐지, 침입탐지 → 보안강화 
 
-- 최신동향 → ?!
+- 최신동향 → 예측하기 쉽지 않다
 
 - 대학원생활하면서 힘들고 보람→ 밤새워서 실험 후 상을 받게 되었음
 
