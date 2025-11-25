@@ -173,6 +173,8 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5b92ed54-346b-4874-a6d1-a5a99dae6047" />
 
 
+# Week11
+![IMG_0262](https://github.com/user-attachments/assets/7599ea97-1940-437b-acaf-2874f22839a2)
 
 
 
