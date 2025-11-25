@@ -175,7 +175,7 @@ Sixth Sense (To-Be) : 손 제스처, 공중 타이핑 (손가락 추적), 손가
 
 # Week11
 ![IMG_0262](https://github.com/user-attachments/assets/7599ea97-1940-437b-acaf-2874f22839a2)
-- LLM은 일반적으로 ****대규모 언어 모델**([Large Language Model](https://www.google.com/search?q=Large+Language+Model&oq=llm&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQABiDARixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIPCAkQABgKGIMBGLEDGIAE0gEHODc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwit0v2u4fCQAxXSsVYBHR-DL0cQgK4QegYIAQgAEAQ))**을 의미하며, 대량의 텍스트 데이터를 학습하여 인간의 언어를 이해하고 생성하는 인공지능 모델입니다. 이 모델은 텍스트 생성, 질문 답변, 번역 등 다양한 작업에 활용되며, 기존의 키워드 기반 챗봇과 달리 자연어의 맥락을 이해하는 것이 특징입니다
+- LLM은 일반적으로 ****대규모 언어 모델**([Large Language Model](https://www.google.com/search?q=Large+Language+Model&oq=llm&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQABiDARixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIPCAkQABgKGIMBGLEDGIAE0gEHODc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwit0v2u4fCQAxXSsVYBHR-DL0cQgK4QegYIAQgAEAQ))**을 의미하며, 대량의 텍스트 데이터를 학습하여 인간의 언어를 이해하고 생성하는 인공지능 모델입니다. 이 모델은 텍스트 생성, 질문 답변, 번역 등 다양한 작업에 활용되며, 기존의 키워드 기반 챗봇과 달리 자연어의 맥락을 이해하는 것이 특징이다
 Large Language Model
 - 대학원 - 고등학교때부터 차별점을 만들고싶어서 조기졸업 , 석사를 하면 전문적인 일을 주도적으로 할 수 있어서 (군대→전문연구원)
 
@@ -185,11 +185,9 @@ Large Language Model
 
 - 최신동향 → 예측하기 쉽지 않다
 
-- 대학원생활하면서 힘들고 보람→ 밤새워서 실험 후 상을 받게 되었음
+- 대학원생활하면서 힘들고 보람→ 밤새워서 실험 후 상을 받음
 
-- 추천하고싶은 공부방법과 프로젝트 → 해킹이나 취약점 BOB, 정보보안기사, 빅데이터분석기사 / 
-
-- llm 챗봇 (llm 사용이 매우 좋은 경험), 알파프로젝트
+- 추천하고싶은 공부방법과 프로젝트 → 해킹이나 취약점 BOB, 정보보안기사, 빅데이터분석기사 / llm 챗봇 (llm 사용이 매우 좋은 경험), 알파프로젝트
 
 - 학부생시절에서 이거 하나만 하고 졸업해야한다면 → 학부연구생, 알고리즘공부, 인공지능(자연어처리, llm), 휴학
 
