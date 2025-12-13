@@ -201,6 +201,7 @@ Large Language Model
 
 # Week12
 <img width="602" height="452" alt="image" src="https://github.com/user-attachments/assets/fdf59dd6-f280-47cb-9c6f-4a20016f9bc5" />
+
 * AI 어업 시스템에 대한 관점 → 아이디어는 참신하지만 **비용 문제**가 핵심 쟁점
 
   * AI 개발 비용 + 시스템 유지·보수 비용 vs 인건비
